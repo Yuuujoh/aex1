@@ -90,7 +90,7 @@
     width: 100vw;
     height: 100vh;
     z-index: -1;
-    background: url('images/AE-X1 Label Header.jpg') center center/cover no-repeat;
+    background: url('https://cdn.discordapp.com/attachments/1044629224323035223/1405501296362000384/AE-X1_Label_Header.jpg?ex=689f0e96&is=689dbd16&hm=5208f901b46638983b01913a38b1ae4ab1041788910b83c5a7cd328c4f69094c&') center center/cover no-repeat;
 }
 .footer-socials {
     display: inline-flex;
